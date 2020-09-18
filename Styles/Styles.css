@@ -1,0 +1,24 @@
+#header{
+    height:100%;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+#menu{
+    height:70%;
+    float: center;
+    font-size: 16px;
+}
+
+#menu ul{
+    line-height: 85px;
+    height:60%;
+    float: center;
+}
+
+#menu ul li{
+    display: inline-block;
+    list-style: none;
+    height: 45px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
